@@ -66,3 +66,4 @@ D:\DevOps\MyProject1\SampleApplication1\bin\Microsoft.Owin.Security.Twitter.xml
 D:\DevOps\MyProject1\SampleApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\DevOps\MyProject1\SampleApplication1\obj\Debug\SampleApplication1.dll
 D:\DevOps\MyProject1\SampleApplication1\obj\Debug\SampleApplication1.pdb
+D:\DevOps\MyProject1\SampleApplication1\obj\Debug\SampleApplication1.csprojResolveAssemblyReference.cache
